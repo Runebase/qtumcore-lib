@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "runebasecore-lib",
+  "main": "./runebasecore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://runebase.org",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "RUNEBASE <foundation@runebase.org>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your runebase project.",
   "moduleType": [
     "globals"
   ],

@@ -1,22 +1,22 @@
-Qtumcore Library
+Runebasecore Library
 =======
 
-A pure and powerful JavaScript QTUM library.
+A pure and powerful JavaScript RUNEBASE library.
 
 
 ## Get Started
 
 ```
-npm install qtumcore-lib
+npm install runebasecore-lib
 ```
 
 ```
-bower install qtumcore-lib
+bower install runebasecore-lib
 ```
 
 ## Security
 
-We're using qtumcore-lib in production, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
+We're using runebasecore-lib in production, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
 
 
 
@@ -26,19 +26,19 @@ Please send pull requests for bug fixes, code optimization, and ideas for improv
 
 ## Building the Browser Bundle
 
-To build a qtumcore-lib full bundle for the browser:
+To build a runebasecore-lib full bundle for the browser:
 
 ```sh
 gulp browser
 ```
 
-This will generate files named `qtumcore-lib.js` and `qtumcore-lib.min.js`.
+This will generate files named `runebasecore-lib.js` and `runebasecore-lib.min.js`.
 
 ## Development & Tests
 
 ```sh
-git clone https://github.com/qtumproject/qtumcore-lib
-cd qtumcore-lib
+git clone https://github.com/runebase/runebasecore-lib
+cd runebasecore-lib
 npm install
 ```
 
